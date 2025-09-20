@@ -45,7 +45,7 @@ Visit the live website: [https://yourusername.github.io/trupti-portfolio](https:
 - Technologies: HTML5, CSS3, Bootstrap, JavaScript
 - [View on GitHub](https://github.com/trupti-K-ghenand/Blooz)
 
-## 👩\u200d💻 About Trupti Ghenand
+## 👩💻 About Trupti Ghenand
 
 Passionate Cyber & Digital Science graduate with expertise in:
 - **Cybersecurity & Digital Forensics**
