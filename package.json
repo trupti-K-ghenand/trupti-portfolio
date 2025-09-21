@@ -1,7 +1,7 @@
 {
   "name": "trupti-ghenand-portfolio",
   "version": "1.0.0",
-  "homepage": "https://trupti-K-ghenand.github.io/trupti-ghenand-portfolio",
+  "homepage": "https://trupti-K-ghenand.github.io/trupti-portfolio",
   "private": true,
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.8",
